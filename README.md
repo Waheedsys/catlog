@@ -83,3 +83,4 @@ Points for Interpolation
 (9, 28735619219333)
 ```
 ![image](https://github.com/user-attachments/assets/d43999b9-2d84-4e81-9d93-c2265885a9fa)
+![image](https://github.com/user-attachments/assets/c26ff6e5-30a8-4256-b802-d0a46d1775fe)
