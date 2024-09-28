@@ -82,3 +82,4 @@ Points for Interpolation
 (8, 28735619441184)
 (9, 28735619219333)
 ```
+![image](https://github.com/user-attachments/assets/d43999b9-2d84-4e81-9d93-c2265885a9fa)
